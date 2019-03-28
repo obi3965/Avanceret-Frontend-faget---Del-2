@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', (event)=>{
 
   //FIRST EXAMPLE
@@ -31,10 +32,7 @@ document.addEventListener('DOMContentLoaded', (event)=>{
   //     console.log("index is :" + index);
   //   })
 
-  // }
 
-  
-})
         
     
-
+});
