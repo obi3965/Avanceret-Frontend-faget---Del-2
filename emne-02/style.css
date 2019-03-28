@@ -1,4 +1,7 @@
-
+.item{
+    font-size: 20px;
+    cursor: pointer;
+}
 
 .item_1{
     font-size: 20px;
