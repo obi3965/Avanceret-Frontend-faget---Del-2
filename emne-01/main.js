@@ -8,7 +8,7 @@
     
     window.addEventListener("load", (event)=>{
 
-        fetch('../partial/nav.html')
+        fetch('../emne-01/nav.html')
         .then((response)=>{
             return response.text();
         })
